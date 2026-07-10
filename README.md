@@ -62,7 +62,7 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com)😂:
 <a href="https://github.com/phgwon11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="hash.prog" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/p-pathum-hasaranga-gamage-91a184406/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hash.prog" height="30" width="40" /></a>
 
-<a href="[https://github.com/hashfx](https://github.com/phgwon11)" target="_blank"> ![Github: hashfx](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github)</a>
+
 <a href="" target="_blank"> ![Github: hashfx](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github)</a>
 <a href="https://www.linkedin.com/in/p-pathum-hasaranga-gamage-91a184406/">![LinkedIn: hashprog](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 <a href="https://www.instagram.com/__p.h.g.won____?igsh=M3F5Y2NheXFiajgw&utm_source=qr">![Instagram: hash.prog](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
