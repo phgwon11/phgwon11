@@ -50,8 +50,8 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com)😂:
 <h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
 <div style="display: flex; align-items: center; justify-content: center;">
 
-[![](https://github-readme-stats.vercel.app/api?username=phgwon11_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/garbinmarcelo)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=garbinmarcelo&theme=tokyonight&hide_border=true)](https://github.com/garbinmarcelo)
+[![](https://github-readme-stats.vercel.app/api?username=phgwon11_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/phgwon11)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=phgwon11&theme=tokyonight&hide_border=true)](https://github.com/phgwon11)
 
 </div>
 </div>
