@@ -55,3 +55,10 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com)😂:
 
 </div>
 </div>
+
+<h3 align="left">Connect with me:</h3>  
+<p align="left">
+<a href="https://www.instagram.com/__p.h.g.won____?igsh=M3F5Y2NheXFiajgw&utm_source=qr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hash.prog" height="30" width="40" /></a>  
+<a href="https://github.com/phgwon11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="hash.prog" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/p-pathum-hasaranga-gamage-91a184406/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hash.prog" height="30" width="40" /></a>
+
