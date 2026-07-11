@@ -11,6 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phgwon11&label=Profile%20views&color=0e75b6&style=flat" alt="phgwon11" /> </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 - 🌱 I’m currently learning Web Development and other programming languages
 
 - 📚 Always learning, improving, and building new projects
