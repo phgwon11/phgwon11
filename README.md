@@ -49,23 +49,8 @@
 <a href="https://www.linkedin.com/in/p-pathum-hasaranga-gamage-91a184406/">![LinkedIn: hashprog](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 <a href="https://www.instagram.com/__p.h.g.won____?igsh=M3F5Y2NheXFiajgw&utm_source=qr">![Instagram: hash.prog](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
 
-<p align="center" >   
-    
 </p>
-   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <br>
-  <p align="center">
-  <img src="https://github.com/phgwon11/phgwon11/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+
